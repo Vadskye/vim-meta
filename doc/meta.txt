@@ -1,0 +1,23 @@
+*meta.txt*  Store file-specific scripts and data                          *meta*
+
+==============================================================================
+CONTENTS                                                       *meta-contents*
+
+    01. Introduction ................................. |meta-introduction|
+    02. Getting Started ........................... |meta-getting-started|
+    03. Configuration ............................... |meta-configuration|
+    04. Known Issues ....................................... |meta-issues|
+
+==============================================================================
+INTRODUCTION                                           *meta-introduction*
+
+Meta allows you to store Vim configuration and scripts on a file-specific
+basis.
+
+
+==============================================================================
+LICENSE                                                 *meta-license*
+
+MIT License. Copyright © 2015-2016 Kevin Johnson.
+
+vim:tw=78:sw=4:ts=4:ft=help:norl:
